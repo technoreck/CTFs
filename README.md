@@ -1,2 +1,2 @@
 # CTFs
-Cacth the flag challenges
+Catch the flag challenges
